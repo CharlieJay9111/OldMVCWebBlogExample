@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+}
+
+body, h1, h2, p {
+    margin: 0;
+}
+
+img {
+    max-width: 100%;
+    display: block;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+    display: inline-block;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.t-center {
+    text-align: center;
+}
