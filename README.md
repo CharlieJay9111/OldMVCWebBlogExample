@@ -1,0 +1,1 @@
+OldMVCWebBlogExample is an older example web project built using my own PHP MVC framework, OldMVC. I created it several years ago to demonstrate how the framework could be used to build a simple blog. The project was not completed, so the functionality for editing articles is not included.
